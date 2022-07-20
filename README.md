@@ -11,4 +11,4 @@ A Template to quickly get started with nextjs with mantine as and some default t
 
 
 
-NO further development on this template - Use (create t3 app)[https://create.t3.gg/] instead 
+No further development on this template - Use [create t3 app](https://github.com/t3-oss/create-t3-app) instead 
